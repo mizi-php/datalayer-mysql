@@ -1,0 +1,13 @@
+{
+    "name": "mizi/datalayer-mysql",
+    "description": "Conexão datalayer MYSQL e MARIA",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Ricardo",
+            "email": "contatoadmx@gamil.com"
+        }
+    ],
+    "autoload": {},
+    "require": {}
+}
