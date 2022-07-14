@@ -17,7 +17,7 @@
         ]
     },
     "require": {
-        "mizi/datalayer": "dev-main",
+        "mizi/datalayer": "^1.0",
         "ext-pdo_mysql": "*"
     }
 }
