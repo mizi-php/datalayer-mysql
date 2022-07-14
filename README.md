@@ -1,6 +1,6 @@
 # datalayer-mysql
 
-Manipula datalayers do tipo MYSQL
+Manipula conexões com bancos MYSQL e MARIADB
 
     composer require mizi/datalayer-mysql
 

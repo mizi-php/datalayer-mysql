@@ -1,6 +1,6 @@
 {
     "name": "mizi/datalayer-mysql",
-    "description": "Conexão datalayer MYSQL e MARIA",
+    "description": "Manipula conexões com bancos MYSQL e MARIADB",
     "license": "MIT",
     "authors": [
         {
