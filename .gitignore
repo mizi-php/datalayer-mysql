@@ -1,0 +1,7 @@
+/composer.lock
+/vendor
+/.env
+/mx
+
+/class/Model/Db*
+/source/migration

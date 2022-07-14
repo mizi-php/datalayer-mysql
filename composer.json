@@ -8,6 +8,16 @@
             "email": "contatoadmx@gamil.com"
         }
     ],
-    "autoload": {},
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "": "class/"
+        },
+        "files": [
+            "./source/helper/script/datalayer-type.php"
+        ]
+    },
+    "require": {
+        "mizi/datalayer": "dev-main",
+        "ext-pdo_mysql": "*"
+    }
 }
